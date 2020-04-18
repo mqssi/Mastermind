@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1553686464 source:c:\users\massi\desktop\work\c++\mastermind\fonction.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"fonction.h"
+	<windows.h>
+
+1553679440 c:\users\massi\desktop\work\c++\mastermind\fonction.h
+
+1553686073 source:c:\users\massi\desktop\work\c++\mastermind\main.cpp
+	<iostream>
+	"fonction.h"
+
+1553856567 source:c:\users\massi\desktop\work\c++\bouharati.massi.tpmastermind\main.cpp
+	<iostream>
+	"fonction.h"
+
+1553683040 c:\users\massi\desktop\work\c++\bouharati.massi.tpmastermind\fonction.h
+
+1553772477 source:c:\users\massi\desktop\work\c++\bouharati.massi.tpmastermind\fonction.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"fonction.h"
+	<windows.h>
+
